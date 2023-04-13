@@ -21,9 +21,12 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<div align="center">
-  😍 Thanks for watching my profile! Have a nice day! 👍 <br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&width=435&lines=Thanks+for+watching+my+profile!">
+</p>
+
+<p align="center">
   ### Copyright &#169; 2023 Đăng Khoa
-</div>
+</p>
