@@ -26,15 +26,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoalnd172103&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔥 About some stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoalnd172103&show_icons=true&theme=tokyonight)
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&width=435&lines=Thanks+for+watching+my+profile!">
 </p>
 
 <div align="center">
   
-### Copyright &#169; 2023 Đăng Khoa
+### Copyright &#169; 2023 Khoa Ly
 
  </div>
