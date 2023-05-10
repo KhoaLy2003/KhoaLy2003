@@ -26,6 +26,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoalnd172103&layout=compact&theme=tokyonight)]
 
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoadlnd172103&layout=compact&show_icon=true&theme=algolia" alt="khoadlnd172103-langs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=khoadlnd172103&layout=compact&show_icon=true&theme=algolia" alt="khoadlnd172103-stats"/>
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&width=435&lines=Thanks+for+watching+my+profile!">
 </p>
