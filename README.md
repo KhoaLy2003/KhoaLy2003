@@ -27,8 +27,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoalnd172103&layout=compact&theme=tokyonight)]
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoadlnd172103&layout=compact&show_icon=true&theme=algolia" alt="khoadlnd172103-langs"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=khoadlnd172103&layout=compact&show_icon=true&theme=algolia" alt="khoadlnd172103-stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoalnd172103&layout=compact&show_icon=true&theme=algolia" alt="khoalnd172103-langs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=khoalnd172103&layout=compact&show_icon=true&theme=algolia" alt="khoalnd172103-stats"/>
 </div>
 
 <p align="center">
