@@ -24,12 +24,7 @@
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<a href="https://github.com/khoalnd172103/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoalnd172103&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/khoalnd172103/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoalnd172103&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoalnd172103&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&width=435&lines=Thanks+for+watching+my+profile!">
