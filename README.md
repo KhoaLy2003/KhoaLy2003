@@ -39,8 +39,8 @@
 ![Dbeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoalnd172103&layout=compact&show_icon=true&theme=tokyonight" alt="khoalnd172103-langs"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=khoalnd172103&layout=compact&show_icon=true&theme=tokyonight" alt="khoalnd172103-stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhoaLy2003&layout=compact&show_icon=true&theme=tokyonight" alt="khoalnd172103-langs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=KhoaLy2003&layout=compact&show_icon=true&theme=tokyonight" alt="khoalnd172103-stats"/>
 </div>
 
 <p align="center">
