@@ -4,9 +4,7 @@
 
 - 👨‍🎓 My fullname is **Lý Ngọc Đăng Khoa**
 
-- 🏫 I’m curently second-year student at [**FPT University Ho Chi Minh**](https://hcmuni.fpt.edu.vn/)
-
-- 📚 My major is **Software Engineering**
+- 🏫 I’m a recent graduate from [**FPT University Ho Chi Minh**](https://hcmuni.fpt.edu.vn/) with a Bachelor's degree in Software Engineering
 
 - 💼 All of my projects are available at [**my repositories**](https://github.com/khoalnd172103?tab=repositories)
 
