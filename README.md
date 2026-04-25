@@ -23,7 +23,7 @@
 ## 📫 Contact / Links
 
 - 💼 **LinkedIn:**  https://www.linkedin.com/in/khoaly2003/
-- 📧 **Email:**  khoa.lyngocdang@gmail.com
+- 📧 **Email:**  khoaly090141@gmail.com
 
 
 ---
